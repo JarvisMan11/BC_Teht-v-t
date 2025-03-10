@@ -1,0 +1,45 @@
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.exe
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.deps.json
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.runtimeconfig.json
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.pdb
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.AssemblyInfoInputs.cache
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.AssemblyInfo.cs
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.sourcelink.json
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\refint\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.pdb
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.genruntimeconfig.cache
+C:\Tiedostot\Opinnot\C# 2\c--2\Ovi_Tehtävä\obj\Debug\net8.0\ref\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.exe
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.deps.json
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.runtimeconfig.json
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.pdb
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.AssemblyInfoInputs.cache
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.AssemblyInfo.cs
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.sourcelink.json
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\refint\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.pdb
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.genruntimeconfig.cache
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\ref\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.exe
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.deps.json
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.runtimeconfig.json
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\bin\Debug\net8.0\Ovi_Tehtävä.pdb
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.AssemblyInfoInputs.cache
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.AssemblyInfo.cs
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.sourcelink.json
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\refint\Ovi_Tehtävä.dll
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.pdb
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\Ovi_Tehtävä.genruntimeconfig.cache
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Ovi_Tehtävä\obj\Debug\net8.0\ref\Ovi_Tehtävä.dll

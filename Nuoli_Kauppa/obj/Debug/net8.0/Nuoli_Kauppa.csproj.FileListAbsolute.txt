@@ -1,0 +1,30 @@
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.exe
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.deps.json
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.runtimeconfig.json
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.dll
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.pdb
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.AssemblyInfoInputs.cache
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.AssemblyInfo.cs
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.sourcelink.json
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.dll
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\refint\Nuoli_Kauppa.dll
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.pdb
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.genruntimeconfig.cache
+C:\Tiedostot\Opinnot\C# 2\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\ref\Nuoli_Kauppa.dll
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.exe
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.deps.json
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.runtimeconfig.json
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.dll
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\bin\Debug\net8.0\Nuoli_Kauppa.pdb
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.AssemblyInfoInputs.cache
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.AssemblyInfo.cs
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.csproj.CoreCompileInputs.cache
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.sourcelink.json
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.dll
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\refint\Nuoli_Kauppa.dll
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.pdb
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\Nuoli_Kauppa.genruntimeconfig.cache
+C:\Tiedostot\Opinnot\C# _ peliohjelmointi\C-Tehtavat\Nuoli_Kauppa\obj\Debug\net8.0\ref\Nuoli_Kauppa.dll

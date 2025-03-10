@@ -1,0 +1,14 @@
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\bin\Debug\net7.0\Seikkailijanreppu.exe
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\bin\Debug\net7.0\Seikkailijanreppu.deps.json
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\bin\Debug\net7.0\Seikkailijanreppu.runtimeconfig.json
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\bin\Debug\net7.0\Seikkailijanreppu.dll
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\bin\Debug\net7.0\Seikkailijanreppu.pdb
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\Seikkailijanreppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\Seikkailijanreppu.AssemblyInfoInputs.cache
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\Seikkailijanreppu.AssemblyInfo.cs
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\Seikkailijanreppu.csproj.CoreCompileInputs.cache
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\Seikkailijanreppu.dll
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\refint\Seikkailijanreppu.dll
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\Seikkailijanreppu.pdb
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\Seikkailijanreppu.genruntimeconfig.cache
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\Seikkailijanreppu\obj\Debug\net7.0\ref\Seikkailijanreppu.dll

@@ -1,0 +1,14 @@
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\bin\Debug\net7.0\robotti.exe
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\bin\Debug\net7.0\robotti.deps.json
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\bin\Debug\net7.0\robotti.runtimeconfig.json
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\bin\Debug\net7.0\robotti.dll
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\bin\Debug\net7.0\robotti.pdb
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\robotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\robotti.AssemblyInfoInputs.cache
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\robotti.AssemblyInfo.cs
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\robotti.csproj.CoreCompileInputs.cache
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\robotti.dll
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\refint\robotti.dll
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\robotti.pdb
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\robotti.genruntimeconfig.cache
+C:\Users\s2300812\OneDrive - Business College Helsinki\Työpöytä\C#\robotti\obj\Debug\net7.0\ref\robotti.dll
